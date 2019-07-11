@@ -1,0 +1,22 @@
+"""TESTING IF IT WORKS WHEN HAVING MORE THAN ONE SPACE OR TAP BETWEEN WORDS"""
+We    want   to find
+occurrences  of CMSC             155
+but not CMSC    150
+Here are   more CMSC   CMSC CMSC    155 and CMSC  155
+nothing here   or here; indeed not
+
+"""BLANK LINES BETWEEN WORDS"""
+CMSC 155
+CMSC
+155
+CMSC
+
+155
+
+CMSC
+
+155
+
+CMSC
+
+155

@@ -1,0 +1,5 @@
+We want to find
+occurrences of CMSC 155
+but not CMSC 150
+Here are more CMSC CMSC CMSC 155 and CMSC 155
+nothing here or here; indeed not
