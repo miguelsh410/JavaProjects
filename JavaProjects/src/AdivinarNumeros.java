@@ -5,7 +5,7 @@ public class AdivinarNumeros
 {
     public static void main(String[] args)
     {
-        final int numeroSecreto = (randInt(0, 2147483646));
+        final int numeroSecreto = (randInt(0, 100));
         boolean done = false;
         int counter = 0;
 
